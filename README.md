@@ -46,4 +46,4 @@ Fonte: Aula 2 de Swift do Capacita Brasil.
 
 ## CONCLUSÃO
 
-A conclusão que eu tive foi que compreender esses conceitos fundamentais de Swift é essencial para desenvolver programas eficientes e bem estruturados. No contexto do meu RPG esses elementos trabalham juntos para criar uma experiência interativa onde personagens podem atacar, defender e interagir com base nas escolhas do jogador(eu, pois tem meu nome kk).
+A conclusão que eu tive foi que compreender esses conceitos fundamentais de Swift é essencial para desenvolver programas eficientes e bem estruturados. No contexto do meu RPG esses elementos trabalham juntos para criar uma experiência interativa onde personagens podem atacar, defender e interagir com base nas escolhas do jogador.
