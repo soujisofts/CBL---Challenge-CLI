@@ -42,7 +42,7 @@ O “return” pra encerrar a execução de uma função.
 
 e por fim o “break” para sair de um loop principal quando o jogo termina.
 
-Fonte: Aula 2 de Swift.
+Fonte: Aula 2 de Swift do Capacita Brasil.
 
 ## CONCLUSÃO
 
